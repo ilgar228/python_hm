@@ -1,0 +1,13 @@
+[project]
+name = "python-hm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "ilgar228", email = "ilgarallah@gmail.com" }
+]
+requires-python = ">=3.14"
+dependencies = []
+
+[tool.uv]
+package = false
